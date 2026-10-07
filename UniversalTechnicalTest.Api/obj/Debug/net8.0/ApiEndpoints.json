@@ -32,6 +32,32 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "UniversalTechnicalTest.Api.Controllers.PostsController",
+    "Method": "GetPosts",
+    "RelativePath": "api/Posts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UniversalTechnicalTest.Api.Controllers.PostsController",
+    "Method": "CreatePost",
+    "RelativePath": "api/Posts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postRequest",
+        "Type": "UniversalTechnicalTest.Api.DTOs.Posts.CreatePostRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "UniversalTechnicalTest.Api.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

@@ -4,6 +4,8 @@ namespace UniversalTechnicalTest.Api.Services.Interfaces
 {
     public interface IPostsService
     {
-        Task<IEnumerable<PostResponse>>
+        Task<IEnumerable<PostResponse>> GetPostAsync();
+
+        Task<PostResponse?> CreatePostAsync (CreatePostRequest postRequest);
     }
 }

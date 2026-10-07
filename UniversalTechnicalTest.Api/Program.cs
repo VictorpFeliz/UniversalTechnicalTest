@@ -52,6 +52,7 @@ builder.Services
         };
     });
 
+
 builder.Services.AddAuthorization();
 
 
@@ -60,7 +61,10 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IJwtService, JwtService>();
 
 
-
+builder.Services.AddHttpClient<IPostsService, PostsService>(client =>
+{
+    client.BaseAddress = new Uri("https://jsonplaceholder.typicode.com/posts");
+});
 
 var app = builder.Build();
 
