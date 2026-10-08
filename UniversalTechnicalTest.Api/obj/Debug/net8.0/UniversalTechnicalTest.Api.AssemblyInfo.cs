@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniversalTechnicalTest.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45afb0e8c6bf73a38634b59a8b726a26da4a7cbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2989adeb97c14d459afd8654fe41aaf6a5ba7ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniversalTechnicalTest.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniversalTechnicalTest.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
