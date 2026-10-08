@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|c:\\users\\vitico\\source\\repos\\universaltechnicaltest\\universaltechnicaltest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|solutionrelative:universaltechnicaltest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5339130-C67F-4BB3-9DC6-14875ABA2B0E}|UniversalTechnicalTest.Tests\\UniversalTechnicalTest.Tests.csproj|c:\\users\\vitico\\source\\repos\\universaltechnicaltest\\universaltechnicaltest.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5339130-C67F-4BB3-9DC6-14875ABA2B0E}|UniversalTechnicalTest.Tests\\UniversalTechnicalTest.Tests.csproj|solutionrelative:universaltechnicaltest.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|c:\\users\\vitico\\source\\repos\\universaltechnicaltest\\universaltechnicaltest.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|c:\\users\\vitico\\source\\repos\\universaltechnicaltest\\universaltechnicaltest.api\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|solutionrelative:universaltechnicaltest.api\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|c:\\users\\vitico\\source\\repos\\universaltechnicaltest\\universaltechnicaltest.api\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|solutionrelative:universaltechnicaltest.api\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|c:\\users\\vitico\\source\\repos\\universaltechnicaltest\\universaltechnicaltest.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|solutionrelative:universaltechnicaltest.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|c:\\users\\vitico\\source\\repos\\universaltechnicaltest\\universaltechnicaltest.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|c:\\users\\vitico\\source\\repos\\universaltechnicaltest\\universaltechnicaltest.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15C29361-DCC3-40C6-8215-5ACF72460AF8}|UniversalTechnicalTest.Api\\UniversalTechnicalTest.Api.csproj|solutionrelative:universaltechnicaltest.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5339130-C67F-4BB3-9DC6-14875ABA2B0E}|UniversalTechnicalTest.Tests\\UniversalTechnicalTest.Tests.csproj|c:\\users\\vitico\\source\\repos\\universaltechnicaltest\\universaltechnicaltest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5339130-C67F-4BB3-9DC6-14875ABA2B0E}|UniversalTechnicalTest.Tests\\UniversalTechnicalTest.Tests.csproj|solutionrelative:universaltechnicaltest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5339130-C67F-4BB3-9DC6-14875ABA2B0E}|UniversalTechnicalTest.Tests\\UniversalTechnicalTest.Tests.csproj|c:\\users\\vitico\\source\\repos\\universaltechnicaltest\\universaltechnicaltest.tests\\universaltechnicaltest.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B5339130-C67F-4BB3-9DC6-14875ABA2B0E}|UniversalTechnicalTest.Tests\\UniversalTechnicalTest.Tests.csproj|solutionrelative:universaltechnicaltest.tests\\universaltechnicaltest.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 328,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,6 +47,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Tests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "UniversalTechnicalTest.Tests\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Tests\\AuthServiceTests.cs",
+              "RelativeToolTip": "UniversalTechnicalTest.Tests\\AuthServiceTests.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAiwKMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T00:49:45.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostsService.cs",
+              "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Services\\PostsService.cs",
+              "RelativeDocumentMoniker": "UniversalTechnicalTest.Api\\Services\\PostsService.cs",
+              "ToolTip": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Services\\PostsService.cs",
+              "RelativeToolTip": "UniversalTechnicalTest.Api\\Services\\PostsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:20:44.035Z"
             },
             {
               "$type": "Document",
@@ -79,46 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostsService.cs",
-              "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Services\\PostsService.cs",
-              "RelativeDocumentMoniker": "UniversalTechnicalTest.Api\\Services\\PostsService.cs",
-              "ToolTip": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Services\\PostsService.cs",
-              "RelativeToolTip": "UniversalTechnicalTest.Api\\Services\\PostsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:20:44.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BadRequestException.cs",
-              "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Exceptions\\BadRequestException.cs",
-              "RelativeDocumentMoniker": "UniversalTechnicalTest.Api\\Exceptions\\BadRequestException.cs",
-              "ToolTip": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Exceptions\\BadRequestException.cs",
-              "RelativeToolTip": "UniversalTechnicalTest.Api\\Exceptions\\BadRequestException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T20:50:07.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "UniversalTechnicalTest.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "UniversalTechnicalTest.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T20:16:25.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "UniversalTechnicalTest.Api\\Services\\AuthService.cs",
@@ -126,12 +96,11 @@
               "RelativeToolTip": "UniversalTechnicalTest.Api\\Services\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T20:07:29.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T20:07:29.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\appsettings.json",
               "RelativeDocumentMoniker": "UniversalTechnicalTest.Api\\appsettings.json",
@@ -139,25 +108,11 @@
               "RelativeToolTip": "UniversalTechnicalTest.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-07T18:48:06.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T18:48:06.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Program.cs",
-              "RelativeDocumentMoniker": "UniversalTechnicalTest.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Program.cs",
-              "RelativeToolTip": "UniversalTechnicalTest.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T18:05:51.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "UniversalTechnicalTest.Api\\Data\\AppDbContext.cs",
@@ -165,34 +120,7 @@
               "RelativeToolTip": "UniversalTechnicalTest.Api\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T18:04:59.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UniversalTechnicalTest.Tests.csproj",
-              "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Tests\\UniversalTechnicalTest.Tests.csproj",
-              "RelativeDocumentMoniker": "UniversalTechnicalTest.Tests\\UniversalTechnicalTest.Tests.csproj",
-              "ToolTip": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Tests\\UniversalTechnicalTest.Tests.csproj",
-              "RelativeToolTip": "UniversalTechnicalTest.Tests\\UniversalTechnicalTest.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-07T18:04:58.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "UniversalTechnicalTest.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Vitico\\source\\repos\\UniversalTechnicalTest\\UniversalTechnicalTest.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "UniversalTechnicalTest.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T16:22:51.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T18:04:59.022Z"
             }
           ]
         }
