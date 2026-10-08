@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using Microsoft.OpenApi.Models;
 using UniversalTechnicalTest.Api.Data;
 using UniversalTechnicalTest.Api.Middleware;
 using UniversalTechnicalTest.Api.Services;
@@ -17,7 +18,33 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(options =>
+{
+    options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        Name = "Authorization",
+        Type = SecuritySchemeType.Http,
+        Scheme = "bearer",
+        BearerFormat = "JWT",
+        In = ParameterLocation.Header,
+        Description = "Ingrese el token JWT."
+    });
+
+    options.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type = ReferenceType.SecurityScheme,
+                    Id = "Bearer"
+                }
+            },
+            Array.Empty<string>()
+        }
+    });
+});
 
 
 builder.Services.AddValidatorsFromAssemblyContaining<RegisterRequestValidator>();
@@ -63,13 +90,15 @@ builder.Services.AddScoped<IJwtService, JwtService>();
 
 builder.Services.AddHttpClient<IPostsService, PostsService>(client =>
 {
-    client.BaseAddress = new Uri("https://jsonplaceholder.typicode.com/posts");
+    client.BaseAddress = new Uri("https://jsonplaceholder.typicode.com/");
 });
 
 var app = builder.Build();
 
 
 app.UseMiddleware<ExceptionMiddleware>();
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
